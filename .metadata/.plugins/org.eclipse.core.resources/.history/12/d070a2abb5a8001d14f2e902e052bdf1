@@ -6,7 +6,7 @@ public class Sanity {
     static int age=20;
 	static void test1()
 	{
-		System.out.println(age);;;
+		System.out.println(age=20);;;
 	}
 	static void test2() {
 		
