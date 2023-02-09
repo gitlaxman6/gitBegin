@@ -1,0 +1,21 @@
+package Com.test;
+
+public class Sanity {
+
+	static String name="verr";
+	int age=20;
+	static void test1()
+	{
+		
+	}
+
+	void test2() {
+		
+	}
+	
+public static void main(String[] args) {
+	
+	
+}	
+	
+}

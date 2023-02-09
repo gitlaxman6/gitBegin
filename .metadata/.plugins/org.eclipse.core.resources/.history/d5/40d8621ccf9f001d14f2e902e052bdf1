@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+
+<define name="">
+<include name=""/>
+</define>
+</groups>
+  <test thread-count="5" name="smokeTest">
+    <classes>
+       <class name="Com.test.smoketest"/>
+       <class name="fasf.afaf.dwada"/>
+    </classes>
+  </test> <!-- smokeTest -->
+</suite> <!-- Suite -->

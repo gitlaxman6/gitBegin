@@ -1,0 +1,13 @@
+package Com.test;
+
+import org.testng.annotations.Test;
+
+public class smoketest {
+
+	
+	@Test
+	public void set()
+	{
+		System.out.println("Onside test method");
+	}
+}
